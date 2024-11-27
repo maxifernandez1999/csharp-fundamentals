@@ -1,0 +1,15 @@
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\bin\Debug\net6.0\EnumAndSwitch.exe
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\bin\Debug\net6.0\EnumAndSwitch.deps.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\bin\Debug\net6.0\EnumAndSwitch.runtimeconfig.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\bin\Debug\net6.0\EnumAndSwitch.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\bin\Debug\net6.0\EnumAndSwitch.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.csproj.AssemblyReference.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.AssemblyInfoInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.AssemblyInfo.cs
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\refint\EnumAndSwitch.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\EnumAndSwitch.genruntimeconfig.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\EnumAndSwitch\obj\Debug\net6.0\ref\EnumAndSwitch.dll

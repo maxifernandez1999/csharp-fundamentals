@@ -1,0 +1,15 @@
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\bin\Debug\net6.0\Exceptions.exe
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll

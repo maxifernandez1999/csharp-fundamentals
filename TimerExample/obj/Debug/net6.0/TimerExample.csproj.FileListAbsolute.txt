@@ -1,0 +1,15 @@
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\bin\Debug\net6.0\TimerExample.exe
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\bin\Debug\net6.0\TimerExample.deps.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\bin\Debug\net6.0\TimerExample.runtimeconfig.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\bin\Debug\net6.0\TimerExample.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\bin\Debug\net6.0\TimerExample.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.csproj.AssemblyReference.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.AssemblyInfoInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.AssemblyInfo.cs
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\refint\TimerExample.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\TimerExample.genruntimeconfig.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\TimerExample\obj\Debug\net6.0\ref\TimerExample.dll

@@ -1,0 +1,12 @@
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\bin\Debug\net5.0\CodeLibrary.deps.json
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\bin\Debug\net5.0\CodeLibrary.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\bin\Debug\net5.0\CodeLibrary.pdb
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.csproj.AssemblyReference.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.AssemblyInfoInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.AssemblyInfo.cs
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\ref\CodeLibrary.dll
+C:\Users\MaximilianoFernandez\Desktop\csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\CodeLibrary.pdb
+C:\Users\MaximilianoFernandez\Desktop\Csharp-fundamentals\CodeLibrary\obj\Debug\net5.0\refint\CodeLibrary.dll
